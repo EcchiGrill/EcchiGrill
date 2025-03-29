@@ -2,7 +2,13 @@
 
 - 🔨 Main specialization: Front End Engineer.
 - 💬 Ask me about: JavaScript, Typescript, React, Vue.
-- 📫 Stay in touch: <a href="mailto:dmitry.oborsky@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/dmytro-oborskyi/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 Stay in touch:  
+  <a href="mailto:dmitry.oborsky@gmail.com">
+  ![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  </a>  
+  <a href="https://www.linkedin.com/in/dmytro-oborskyi/">
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
 
 ## Tech Stack
 
@@ -23,11 +29,13 @@
 ![Docker](https://img.shields.io/badge/Docker-blue)
 ![Figma](https://img.shields.io/badge/Figma-purple)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecchigrill&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="most used languages" />
-
 ## My Github Stats
 
-<div style="display: flex">
-<img src="https://github-readme-stats.vercel.app/api?username=ecchigrill&show_icons=true&theme=cobalt&hide_border=true" alt="github stats" align="left" width="38%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ecchigrill&theme=cobalt&hide_border=true" alt="github streak" align="right" width="48%" >
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ecchigrill&show_icons=true&theme=cobalt&hide_border=true" alt="github stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecchigrill&theme=cobalt&hide_border=true" alt="github streak" width="50%">
 </div>
+
+<br>
+
+## 🔗 Explore more on my website **[dmytro-oborskyi.com](https://dmytro-oborskyi.com/)**
