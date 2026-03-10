@@ -1,14 +1,7 @@
 # Hi there👋 I`m Dmytro Oborskyi
 
-- 🔨 Main specialization: Front End Engineer.
-- 💬 Ask me about: JavaScript, Typescript, React, Vue.
-- 📫 Stay in touch:  
-  <a href="mailto:dmitry.oborsky@gmail.com">
-  ![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  </a>  
-  <a href="https://www.linkedin.com/in/dmytro-oborskyi/">
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
+- 🔨 Specialization: Full-stack Engineer.
+- 💬 Ask me about: JavaScript, Typescript, Node.js, React, Nest.js, Vue.
 
 ## Tech Stack
 
@@ -39,3 +32,13 @@
 <br>
 
 ## 🔗 Explore more on my website **[dmytro-oborskyi.com](https://dmytro-oborskyi.com/)**
+
+## 📫 Stay in touch 
+<p align="left">
+  <a href="mailto:dmitry.oborsky@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dmytro-oborskyi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
